@@ -1,10 +1,10 @@
-NAME: GlobalScholar (Filtered for IP Verification)
-AUTHOR: blackmatrix7 (Filtered by AI)
-REPO: https://github.com/blackmatrix7/ios_rule_script
-UPDATED: 2024-11-29 02:15:20 (Original Date)
-DOMAIN: 0
-DOMAIN-SUFFIX: 135
-TOTAL: 135
+# NAME: GlobalScholar (Filtered for IP Verification)
+# AUTHOR: blackmatrix7 (Filtered by AI)
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-11-29 02:15:20 (Original Date)
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 135
+# TOTAL: 135
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,aiaa.org
